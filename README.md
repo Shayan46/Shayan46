@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShayanKoundinya
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Full Stack
 - 📫 How to reach me koundinya.shayan@gmail.com
 
 <!---
