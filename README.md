@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShayanKoundinya
-- 👀 I’m interested in Nothing!
+- 👀 I’m interested in CODINGG!!
 - 🌱 I’m currently learning Full Stack
 - 📫 How to reach me koundinya.shayan@gmail.com
 
